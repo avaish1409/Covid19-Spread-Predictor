@@ -1,5 +1,6 @@
 # Covid19-Spread-Predictor
 An ML based application that predicts number of cases and deaths on any given date.
+This project is being currently worked upon.
 
 ## Data
 Number of cases, recoveries and deaths over a given time period
